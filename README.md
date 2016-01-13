@@ -1,2 +1,2 @@
-# bookmark-sort
-chrome html bookmark sort
+# bookmark-duplicate-remove
+chrome bookmark html remove duplicate url
